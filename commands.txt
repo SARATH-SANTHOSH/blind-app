@@ -1,0 +1,8 @@
+
+flutter clean
+rm -rf pubspec.lockrm
+flutter pub get
+flutter run
+
+ifconfig   ( to get ip address)
+grep inet ( to get ip address)
